@@ -1,0 +1,6 @@
+{
+  "name": "Hóa Học THPT Đakrông",
+  "description": "Hệ thống ôn luyện & đánh giá năng lực Hóa học trực tuyến - Chương trình GDPT 2018 THPT Đakrông",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
